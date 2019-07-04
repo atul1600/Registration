@@ -1,0 +1,49 @@
+body{
+	background-image: url(10.jpg);
+	background-position: center center;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+ 
+}
+#one{
+	margin-top: 40px;
+	text-align: center;
+
+}
+#login{
+	padding: 10px;
+	border:1px solid #0ABDE3;
+	border-radius: 15px;
+	background-color: transparent;
+	color: black;
+}
+input[type="text"]
+{
+	width: 50%;
+	background:transparent;
+    border: none;
+    border-bottom: 2px solid black;
+    margin: auto;
+  display: block;
+}
+input[type=text]:focus {
+  border: 2px solid #0ABDE3;
+}
+#two{
+	margin-top: 40px;
+	text-align: center;
+
+}
+.vl {
+  border-left: 1px solid green;
+  height:550px;
+}
+
+h3{
+font-family: 'Kanit', sans-serif;
+}
+h4{
+	font-family: 'Raleway', sans-serif;
+
+}
